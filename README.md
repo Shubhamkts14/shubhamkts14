@@ -77,8 +77,8 @@ I am presently pursuing Btech in _Computer Science Engineering(SCSE)_ From Vello
 <br />
 <br />
 
-![Metrics](https://metrics.lecoq.io/abhishek2x?template=classic&repositories=100&isocalendar=1&lines=1&gists=1&introduction=1&skyline=1&nightscout=1&isocalendar.duration=full-year&introduction.title=true&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/shubhamkts14?template=classic&repositories=100&isocalendar=1&lines=1&gists=1&introduction=1&skyline=1&nightscout=1&isocalendar.duration=full-year&introduction.title=true&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Asia%2FCalcutta)
 
-⭐️ From [abhishek2x](https://github.com/abhishek2x)
+⭐️ From [Shubham](https://github.com/shubhamkts14)
 
 </details>
