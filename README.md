@@ -8,7 +8,7 @@ I am presently pursuing Btech in _Computer Science Engineering(SCSE)_ From Vello
 
 ## '' Having an urge to learn and Improve
 
-[![Twitter Badge](https://img.shields.io/badge/-@Shubham-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shubhamkts14)](https://twitter.com/shubhamkts14) [![Linkedin Badge](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-srivastava-49482a190/)](https://www.linkedin.com/in/shubham-kts/)
+[![Twitter Badge](https://img.shields.io/badge/-@Shubham-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shubhamkts14)](https://twitter.com/shubhamkts14) [![Linkedin Badge](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/abhishek-srivastava-49482a190/](https://www.linkedin.com/in/shubham-kts/))](https://www.linkedin.com/in/shubham-kts/)
 </br>
 [![Gmail Badge](https://img.shields.io/badge/-shubhamkts14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamkts14@gmail.com)](mailto:shubhamkts14@gmail.com)
 
