@@ -63,7 +63,7 @@ I am presently pursuing Btech in _Computer Science Engineering(SCSE)_ From Vello
 <br/>
 <br/>
 
-[![Shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhamkts14&theme=xcode)](https://git.io/abhishek2x)
+[![Shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhamkts14&theme=xcode)](https://github.com/Shubhamkts14)
 
 <br/>
 <br/>
